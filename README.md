@@ -13,4 +13,6 @@
 * Obtendo o endereço da máquina: **comando ifconfig**
 * URL para clone: http://www.facebook.com
 
+## Resultado
+
 * ![Captura de tela 2024-01-14 185244](https://github.com/ThiagoCSQ/ibersecurity-desafio-phishing/assets/122689948/72b012f5-ffb6-4887-85f9-47148fe078fe)
